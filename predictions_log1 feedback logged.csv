@@ -1,0 +1,4 @@
+image,x1,y1,x2,y2,score,label,,Name,Email,Place,Disease,Comment,Ipfs Hash
+C:/Users/vijay/OneDrive/Desktop/Mini_project/scab.jpg,51.52222061,114.5972443,109.3460846,160.3482971,0.174653247,"['Scab', 'Scab', 'Scab']",,ramya sri,ramya@gmail.com,hyd,apple scab,it was well detected,afkreietf4xzi63as3m337web62olux23ecrfue3l7b3yolhyjutzoxduq
+C:/Users/vijay/OneDrive/Desktop/Mini_project/scab.jpg,59.25209045,72.41663361,104.6502151,114.5347443,0.128474355,"['Scab', 'Scab', 'Scab']",,,,,,,
+C:/Users/vijay/OneDrive/Desktop/Mini_project/scab.jpg,60.99199677,64.97559357,126.66082,106.6048737,0.12343432,"['Scab', 'Scab', 'Scab']",,,,,,,
